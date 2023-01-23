@@ -6,8 +6,6 @@
 - Administrator can provide details like Bus Name, Bus Route, Bus Type –AC/non-AC, seats, departure time and arrival time
 - Administrator can provide the confirmation of the seat to the Customer
 - Customer can register by giving all the details
-- Customer can login his username and password
-- Customer can book ticket by selecting Source and destination
 - Customer can cancel ticket
 # Technology used 
 - Java
