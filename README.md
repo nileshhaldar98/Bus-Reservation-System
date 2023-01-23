@@ -15,3 +15,9 @@
 - JDBC
 - spring tool suite eclipse
 - Git & GitHub
+## **ER Diagram**
+*Customer and Bus has many to many relationship*
+</br>
+*Booking table as linking between Customer and Bus*
+</br>
+![Er diagram](https://github.com/nileshhaldar98/eight-thrill-4215/blob/main/BusTicketReservationSystem/ProjectDetails/ER%20diagram/ERdiagram.png)
